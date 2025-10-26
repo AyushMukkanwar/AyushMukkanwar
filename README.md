@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at IIIT Allahabad passionate about web development. I love building things with TypeScript, React, and Next.js on the frontend, and Node.js, Express, and NestJS on the backend. Currently, I'm actively contributing to open source projects and constantly learning new ways to create better web experiences. When I'm not coding, you'll find me exploring the latest in web technologies and working on projects that push my skills further.
+I'm a Computer Science student at IIIT Allahabad passionate about creating impactful web experiences. I love building with TypeScript, React, and Next.js on the frontend, and Node.js, Express, and NestJS on the backend. Currently, I'm contributing to open-source projects and refining my craft by exploring new design patterns and scalable architectures. I enjoy learning new things on the go, especially when applying them to real-world projects. Beyond coding, I love reading books, hitting the gym, and planning world domination 👻.
 
 
 ## 🌐 Socials:
@@ -23,8 +23,6 @@ I'm a student at IIIT Allahabad passionate about web development. I love buildin
 ### 💬 Let's build something amazing together!
   
 ⚡ *Fast and clean code* ⚡
-
-👻
 
 </div>
 
